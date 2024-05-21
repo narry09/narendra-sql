@@ -1,0 +1,52 @@
+Please sign up for a GCP free account and complete this SQL assignment. Please let me know if you have any questions on GCP Account. 
+
+Expected Date to Complete :  1/4/2024
+
+I want all the sql's tested and pushed into git. Do not send sql's as attachments. 
+
+Please share the git link. 
+
+SQL Assignment
+
+There is a preloaded Public Dataset available in BQ.
+
+BQ Project Name = bigquery-public-data
+
+1. I need total Population in zipcode 94085 (Sunnyvale CA)
+
+ Table = `bigquery-public-data.census_bureau_usa.population_by_zip_2010`
+ 
+2. I need number of Male and Female head count in zipcode 94085 (Sunnyvale CA)
+
+ Table = `bigquery-public-data.census_bureau_usa.population_by_zip_2010`
+
+3. I want which Age group has max headcount for both male and female genders combine (zipcode 94085 (Sunnyvale CA))
+
+ Table = `bigquery-public-data.census_bureau_usa.population_by_zip_2010`
+
+4. I want age group for male gender which has max male population zipcode 94085 (Sunnyvale CA))
+
+ Table = `bigquery-public-data.census_bureau_usa.population_by_zip_2010`
+
+5. I want age group for female gender which has max male population zipcode 94085 (Sunnyvale CA))
+
+ Table = `bigquery-public-data.census_bureau_usa.population_by_zip_2010`
+
+
+6. I want zipcode which has highest male and female population in USA
+
+ Table = `bigquery-public-data.census_bureau_usa.population_by_zip_2010`
+
+7. I want first five age groups which has highest male and female population in USA
+
+ Table = `bigquery-public-data.census_bureau_usa.population_by_zip_2010`
+
+8. I want first five zipcodes which has highest female population in entire USA
+
+ Table = `bigquery-public-data.census_bureau_usa.population_by_zip_2010`
+
+9. I want first 10 which has lowest male population in entire USA
+
+ Table = `bigquery-public-data.census_bureau_usa.population_by_zip_2010`
+
+Thanks 
